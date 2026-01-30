@@ -127,17 +127,3 @@ Acesso interno via rede privada.
 
 ---
 
-## 🧠 Conclusão
-
-Este projeto consolida conceitos fundamentais de **infraestrutura privada em nuvem**, simulando cenários reais utilizados por empresas que operam com ambientes críticos, seguros e isolados.
-
-Serve como base prática para atuação em áreas como:
-
-- Cloud Support  
-- Cloud Engineer  
-- Cloud Infrastructure  
-- DevOps  
-- SRE  
-- Infraestrutura corporativa  
-
-
